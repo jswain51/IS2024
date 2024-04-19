@@ -1,0 +1,16 @@
+.common{text-align: center; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-style:normal; font-size: larger;}
+.header{height: 100px; background-color: green; color: white; line-height: 100px;}
+.mainbody{background-color: whitesmoke; color: black; font-size: large;}
+.footer{background-color: green; color: white; height: 25px; bottom: 5px; right: 5px; left: 5px;}
+img{display: block; margin-left: auto; margin-right: auto; width: 25%}
+nav{background-color: lightgray; padding: 10px; overflow: hidden;}
+nav a{float: left; color: black; padding: 10px 13px; text-decoration: none; font-size: 16px; font-weight: bold;}
+nav a:hover{background-color: #ccc;}
+ul{margin-left: -15px; font-size: larger;}
+h2{margin-bottom: -10px; color:#009246; font-style:inherit}
+.emphasizedText{font-style:italic; color:red}
+p{font-size: larger;}
+a{font-size: larger; text-align: center;}
+div{font-size:medium}
+/*this is a comment for a css page
+/*for the footer, the position tag and on are optional
